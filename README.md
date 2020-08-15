@@ -1,16 +1,26 @@
-### Hi there 👋
+<h2> Hi, I'm Vishnu Ramineni a.k.a 0x1bitcrack3r!</h2>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=0x1bitcrack3r&show_icons=true&theme=merko" width="380">
+<p><em>Software Developer and Security Researcher <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<!--
-**0x1bitcrack3r/0x1bitcrack3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 😄 Pronouns: He/Him
+- 📫 How to reach me: 0x1bitcrack3r@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Follow me here
+[![Twitter: 0x1bitcrack3r](https://img.shields.io/twitter/follow/0x1bitcrack3r?style=flat-square)](https://twitter.com/0x1bitcrack3r)
+[![GitHub 0x1bitcrack3r](https://img.shields.io/github/followers/0x1bitcrack3r?label=follow%20github&style=flat-square)](https://github.com/0x1bitcrack3r)
+
+<br>
+
+### More about me...
+
+```json
+"about_me":{
+"Job": "Software Developer",
+"Specificity":"FullStack (FrontEnd Heavy)",
+"WhatDoIDo": "Build mobile and web applications",
+"Code": "JavaScript+Python+Java"
+}
+```
+---
