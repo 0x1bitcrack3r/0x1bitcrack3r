@@ -5,7 +5,7 @@
 
 
 - 😄 Pronouns: He/Him
-- 📫 How to reach me: 0x1bitcrack3r@gmail.com
+- 📫 How to reach me: 0x1bitcrack3r.me
 
 Follow me here
 [![Twitter: 0x1bitcrack3r](https://img.shields.io/twitter/follow/0x1bitcrack3r?style=flat-square)](https://twitter.com/0x1bitcrack3r)
