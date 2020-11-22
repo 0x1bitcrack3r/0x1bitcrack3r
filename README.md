@@ -73,6 +73,8 @@ src="https://img.shields.io/badge/OS-iOS-informational?style=flat&logo=ios&logoC
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#455](https://github.com/opentok/opentok-react-native/issues/455) in [opentok/opentok-react-native](https://github.com/opentok/opentok-react-native)
+2. 💪 Opened PR [#456](https://github.com/opentok/opentok-react-native/pull/456) in [opentok/opentok-react-native](https://github.com/opentok/opentok-react-native)
 <!--END_SECTION:activity-->
 
 </details>
