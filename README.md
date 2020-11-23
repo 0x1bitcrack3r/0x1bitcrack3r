@@ -43,7 +43,6 @@ src="https://img.shields.io/badge/OS-iOS-informational?style=flat&logo=ios&logoC
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Incoming call Notifications for React Native apps](https://medium.com/@0x1bitcrack3r/incoming-call-notifications-for-react-native-apps-ef4725702401?source=rss-4e69df28b516------2)
 - [Android Native Module for React Native Apps](https://medium.com/@0x1bitcrack3r/android-native-module-for-react-native-apps-94bf4cdb3a5d?source=rss-4e69df28b516------2)
 - [HTTP MiTM on Hike Messenger allows the attacker to see group conversations, attachments](https://medium.com/@0x1bitcrack3r/http-mitm-on-hike-messenger-allows-the-attacker-to-see-group-conversations-attachments-35f6d9817173?source=rss-4e69df28b516------2)
