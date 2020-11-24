@@ -47,6 +47,7 @@ src="https://img.shields.io/badge/OS-iOS-informational?style=flat&logo=ios&logoC
 - [Android Native Module for React Native Apps](https://medium.com/@0x1bitcrack3r/android-native-module-for-react-native-apps-94bf4cdb3a5d?source=rss-4e69df28b516------2)
 - [HTTP MiTM on Hike Messenger allows the attacker to see group conversations, attachments](https://medium.com/@0x1bitcrack3r/http-mitm-on-hike-messenger-allows-the-attacker-to-see-group-conversations-attachments-35f6d9817173?source=rss-4e69df28b516------2)
 - [Cracking WiFi passwords using wifite](https://medium.com/@0x1bitcrack3r/cracking-wifi-passwords-using-wifite-955d93eff2bc?source=rss-4e69df28b516------2)
+- [How I found Swiggy partners data breach?](https://medium.com/@0x1bitcrack3r/how-i-found-swiggy-partners-data-breach-4ea7070a21bf?source=rss-4e69df28b516------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
