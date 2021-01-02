@@ -74,8 +74,8 @@ src="https://img.shields.io/badge/OS-iOS-informational?style=flat&logo=ios&logoC
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/0x1bitcrack3r/MERN-GraphQL/pull/2) in [0x1bitcrack3r/MERN-GraphQL](https://github.com/0x1bitcrack3r/MERN-GraphQL)
-2. ❌ Closed PR [#1](https://github.com/0x1bitcrack3r/MERN-GraphQL/pull/1) in [0x1bitcrack3r/MERN-GraphQL](https://github.com/0x1bitcrack3r/MERN-GraphQL)
+1. 💪 Opened PR [#3](https://github.com/0x1bitcrack3r/MERN-GraphQL/pull/3) in [0x1bitcrack3r/MERN-GraphQL](https://github.com/0x1bitcrack3r/MERN-GraphQL)
+2. ❌ Closed PR [#2](https://github.com/0x1bitcrack3r/MERN-GraphQL/pull/2) in [0x1bitcrack3r/MERN-GraphQL](https://github.com/0x1bitcrack3r/MERN-GraphQL)
 <!--END_SECTION:activity-->
 
 </details>
