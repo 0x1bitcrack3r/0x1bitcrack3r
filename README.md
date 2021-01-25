@@ -75,7 +75,7 @@ src="https://img.shields.io/badge/OS-iOS-informational?style=flat&logo=ios&logoC
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#714](https://github.com/microsoft/appcenter-sdk-react-native/issues/714) in [microsoft/appcenter-sdk-react-native](https://github.com/microsoft/appcenter-sdk-react-native)
-2. 💪 Opened PR [#3](https://github.com/0x1bitcrack3r/MERN-GraphQL/pull/3) in [0x1bitcrack3r/MERN-GraphQL](https://github.com/0x1bitcrack3r/MERN-GraphQL)
+2. 🗣 Commented on [#714](https://github.com/microsoft/appcenter-sdk-react-native/issues/714) in [microsoft/appcenter-sdk-react-native](https://github.com/microsoft/appcenter-sdk-react-native)
 <!--END_SECTION:activity-->
 
 </details>
