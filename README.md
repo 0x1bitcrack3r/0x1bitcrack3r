@@ -75,7 +75,7 @@ src="https://img.shields.io/badge/OS-iOS-informational?style=flat&logo=ios&logoC
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#139](https://github.com/react-native-geolocation/react-native-geolocation/issues/139) in [react-native-geolocation/react-native-geolocation](https://github.com/react-native-geolocation/react-native-geolocation)
-2. 🗣 Commented on [#714](https://github.com/microsoft/appcenter-sdk-react-native/issues/714) in [microsoft/appcenter-sdk-react-native](https://github.com/microsoft/appcenter-sdk-react-native)
+2. 🗣 Commented on [#139](https://github.com/react-native-geolocation/react-native-geolocation/issues/139) in [react-native-geolocation/react-native-geolocation](https://github.com/react-native-geolocation/react-native-geolocation)
 <!--END_SECTION:activity-->
 
 </details>
