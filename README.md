@@ -74,7 +74,7 @@ src="https://img.shields.io/badge/OS-iOS-informational?style=flat&logo=ios&logoC
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/0x1bitcrack3r/example-gh-actions/pull/1) in [0x1bitcrack3r/example-gh-actions](https://github.com/0x1bitcrack3r/example-gh-actions)
+1. 🗣 Commented on [#139](https://github.com/react-native-geolocation/react-native-geolocation/issues/139) in [react-native-geolocation/react-native-geolocation](https://github.com/react-native-geolocation/react-native-geolocation)
 2. 🗣 Commented on [#139](https://github.com/react-native-geolocation/react-native-geolocation/issues/139) in [react-native-geolocation/react-native-geolocation](https://github.com/react-native-geolocation/react-native-geolocation)
 <!--END_SECTION:activity-->
 
