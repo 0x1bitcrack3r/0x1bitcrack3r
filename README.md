@@ -80,13 +80,4 @@ src="https://img.shields.io/badge/OS-iOS-informational?style=flat&logo=ios&logoC
 
 </details>
 
----
 
-<h3 align="center">Connect with me</h3>
-<p align="center">
-<a href="https://twitter.com/0x1bitcrack3r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="0x1bitcrack3r" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/vishnu-ramineni-7a581383/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/vishnu-ramineni-7a581383/" height="30" width="40" /></a>
-<a href="https://medium.com/@0x1bitcrack3r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@0x1bitcrack3r" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vishnuramineni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="vishnuramineni" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@raminenivishnu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@raminenivishnu" height="30" width="40" /></a>
-</p>
