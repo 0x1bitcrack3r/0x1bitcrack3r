@@ -46,8 +46,6 @@ src="https://img.shields.io/badge/OS-iOS-informational?style=flat&logo=ios&logoC
 - [How I found misconfigured Jenkins instances  of different organizations using Shodan](https://0x1bitcrack3r.medium.com/how-i-found-misconfigured-jenkins-instances-of-different-organizations-using-shodan-9837088f4ec7?source=rss-4e69df28b516------2)
 - [Incoming call Notifications for React Native apps](https://0x1bitcrack3r.medium.com/incoming-call-notifications-for-react-native-apps-ef4725702401?source=rss-4e69df28b516------2)
 - [Android Native Module for React Native Apps](https://0x1bitcrack3r.medium.com/android-native-module-for-react-native-apps-94bf4cdb3a5d?source=rss-4e69df28b516------2)
-- [HTTP MiTM on Hike Messenger allows the attacker to see group conversations, attachments](https://0x1bitcrack3r.medium.com/http-mitm-on-hike-messenger-allows-the-attacker-to-see-group-conversations-attachments-35f6d9817173?source=rss-4e69df28b516------2)
-- [Cracking WiFi passwords using wifite](https://0x1bitcrack3r.medium.com/cracking-wifi-passwords-using-wifite-955d93eff2bc?source=rss-4e69df28b516------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
