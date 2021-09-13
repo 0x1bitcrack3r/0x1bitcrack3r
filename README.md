@@ -74,8 +74,8 @@ src="https://img.shields.io/badge/OS-iOS-informational?style=flat&logo=ios&logoC
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/0x1bitcrack3r/RNFirebaseCallNotifications/issues/2) in [0x1bitcrack3r/RNFirebaseCallNotifications](https://github.com/0x1bitcrack3r/RNFirebaseCallNotifications)
-2. 🗣 Commented on [#2](https://github.com/0x1bitcrack3r/RNFirebaseCallNotifications/issues/2) in [0x1bitcrack3r/RNFirebaseCallNotifications](https://github.com/0x1bitcrack3r/RNFirebaseCallNotifications)
+1. 🗣 Commented on [#348](https://github.com/razorpay/react-native-razorpay/issues/348) in [razorpay/react-native-razorpay](https://github.com/razorpay/react-native-razorpay)
+2. ❗️ Closed issue [#2](https://github.com/0x1bitcrack3r/RNFirebaseCallNotifications/issues/2) in [0x1bitcrack3r/RNFirebaseCallNotifications](https://github.com/0x1bitcrack3r/RNFirebaseCallNotifications)
 <!--END_SECTION:activity-->
 
 </details>
