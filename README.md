@@ -74,7 +74,7 @@ src="https://img.shields.io/badge/OS-iOS-informational?style=flat&logo=ios&logoC
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#348](https://github.com/razorpay/react-native-razorpay/issues/348) in [razorpay/react-native-razorpay](https://github.com/razorpay/react-native-razorpay)
+1. ❗️ Opened issue [#358](https://github.com/razorpay/react-native-razorpay/issues/358) in [razorpay/react-native-razorpay](https://github.com/razorpay/react-native-razorpay)
 2. 🗣 Commented on [#348](https://github.com/razorpay/react-native-razorpay/issues/348) in [razorpay/react-native-razorpay](https://github.com/razorpay/react-native-razorpay)
 <!--END_SECTION:activity-->
 
