@@ -1,11 +1,11 @@
-### Hi there, I'm Vishnu Ramineni - aka [0x1bitcrack3r](http://vishnuramineni.xyz) 👋
+### Hi there, I'm Vishnu Ramineni - aka [0x1bitcrack3r](http://vishnuramineni.com) 👋
 
 <br/>
 
 <p><em>I am a Software Developer and Security Researcher. I am a self-motivated and self-taught professional who likes to solve problems. I am a security enthusiast. In my free time, I participate in responsible disclosure programs. Ranked top10 in international hacking contest bountycon at nullcon 2017.
 </em>
 
-[![Website](https://img.shields.io/website?label=vishnuramineni.xyz&style=for-the-badge&url=http%3A%2F%2Fvishnuramineni.xyz)](http://vishnuramineni.xyz)
+[![Website](https://img.shields.io/website?label=vishnuramineni.com&style=for-the-badge&url=http%3A%2F%2Fvishnuramineni.com)](http://vishnuramineni.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/0x1bitcrack3r?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F0x1bitcrack3r&screen_name=0x1bitcrack3r)
 
 </p>
