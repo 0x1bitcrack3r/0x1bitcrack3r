@@ -64,10 +64,6 @@ src="https://img.shields.io/badge/OS-iOS-informational?style=flat&logo=ios&logoC
 
 ---
 
-### Spotify Playing 🎧
-
-[<img src="https://spotify-now-playing-0x1bitcrack3r.vercel.app/api/spotify" alt="0x1bitcrack3r Spotify Playing" width="350" />](https://open.spotify.com/user/dl857udr1u1mxswiaye590z0t)
-
 ## <br/>
 
 <details>
