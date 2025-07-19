@@ -2,7 +2,13 @@
 
 <br/>
 
-<p><em>I am a Software Developer and Security Researcher. I am a self-motivated and self-taught professional who likes to solve problems. I am a security enthusiast. In my free time, I participate in responsible disclosure programs. Ranked top10 in international hacking contest bountycon at nullcon 2017.
+<p><em>I’m Vishnu Ramineni, a UI Architect and Senior Software Engineer with over a decade of experience in software development. My career has been shaped by a passion for building inclusive, accessible digital experiences, particularly in health tech and digital pharmacy. I specialize in designing scalable, user-centric UI architectures for web and mobile applications that balance accessibility, performance, and innovation.
+
+A core focus of my journey has been leading teams to develop transformative healthcare technologies. From architecting digital pharmacy platforms that improve patient outcomes to developing AI-driven tools that enhance e-commerce accessibility for users with disabilities, I excel at turning complex challenges into intuitive and equitable solutions.
+
+Accessibility isn't just a professional focus; it's a personal mission. I believe technology should empower everyone, and I’m dedicated to breaking down barriers to ensure seamless experiences for all users, especially in healthcare domains.
+
+In addition to my work as a software engineer, I’m also a security researcher and ethical hacker. I am self-motivated and self-taught, with a strong interest in solving real-world problems through secure and scalable technology. I actively participate in responsible disclosure programs and was ranked in the Top 10 at the international hacking contest BountyCon at Nullcon 2017.
 </em>
 
 [![Website](https://img.shields.io/website?label=vishnuramineni.com&style=for-the-badge&url=http%3A%2F%2Fvishnuramineni.com)](http://vishnuramineni.com)
