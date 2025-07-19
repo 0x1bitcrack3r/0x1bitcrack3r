@@ -2,7 +2,7 @@
 
 <br/>
 
-<p><em>I’m Vishnu Ramineni, a UI Architect and Senior Software Engineer with over a decade of experience in software development. My career has been shaped by a passion for building inclusive, accessible digital experiences, particularly in health tech and digital pharmacy. I specialize in designing scalable, user-centric UI architectures for web and mobile applications that balance accessibility, performance, and innovation.
+<p><em>I’m Vishnu Ramineni, a UI Architect and Senior Staff Software Engineer with over a decade of experience in software development. My career has been shaped by a passion for building inclusive, accessible digital experiences, particularly in health tech and digital pharmacy. I specialize in designing scalable, user-centric UI architectures for web and mobile applications that balance accessibility, performance, and innovation.
 
 A core focus of my journey has been leading teams to develop transformative healthcare technologies. From architecting digital pharmacy platforms that improve patient outcomes to developing AI-driven tools that enhance e-commerce accessibility for users with disabilities, I excel at turning complex challenges into intuitive and equitable solutions.
 
