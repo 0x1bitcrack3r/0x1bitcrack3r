@@ -1,4 +1,4 @@
-### Hi there, I'm Vishnu Ramineni - aka [0x1bitcrack3r](http://vishnuramineni.com) 👋
+### Hi there, I'm Vishnu Ramineni - aka [0x1bitcrack3r](http://vishnuramineni.com) [Wiki](https://www.wikidata.org/wiki/Q133453190) 👋
 
 <br/>
 
